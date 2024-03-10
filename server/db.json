@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "cabf7f86-d956-0919-933f-300e4b439505",
+      "name": "Prasanth M",
+      "email": "prasanthmuthupandi@gmail.com"
+    },
+    {
+      "id": "7d2ce548-262d-abdf-145a-7fc53539425c",
+      "name": "Raj",
+      "email": "Raj@gmail.com"
+    },
+    {
+      "id": "93b7b7fd-8d20-f839-422a-1ac6560fec54",
+      "name": "paul",
+      "email": "paul@gmail.com"
+    },
+    {
+      "id": "d2e862a4-4753-cf48-cd6b-a44cce5fe3fe",
+      "name": "hari",
+      "email": "hari@gmail.com"
+    },
+    {
+      "id": "d48809f1-c4c0-309d-6c68-215c4fad336f",
+      "name": "varsan",
+      "email": "varsan@gmail.com"
+    }
+  ]
+}
