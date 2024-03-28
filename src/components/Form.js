@@ -23,11 +23,11 @@ const Form = ({formData,handleChange,btnName,CreateContact,editContact,state}) =
       </div>
       <div id={styles.email}>
         <label>
-          Email:
+          Phone:
           <input
-            type="email"
+            type="phone"
             name="email"
-            placeholder={btnName === 'Edit' ? state.email : 'email'}
+            placeholder={btnName === 'Edit' ? state.email : 'phone'}
             value={formData.email}
             onChange={handleChange}
           />
